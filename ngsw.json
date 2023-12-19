@@ -1,0 +1,93 @@
+{
+  "configVersion": 1,
+  "timestamp": 1702947288772,
+  "index": "https://Guilherme-mendesc.github.io/pokedex/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://Guilherme-mendesc.github.io/pokedex/favicon.ico",
+        "https://Guilherme-mendesc.github.io/pokedex/index.html",
+        "https://Guilherme-mendesc.github.io/pokedex/main.7214831b5b7783ee.js",
+        "https://Guilherme-mendesc.github.io/pokedex/manifest.webmanifest",
+        "https://Guilherme-mendesc.github.io/pokedex/polyfills.7b8d93438d0d569a.js",
+        "https://Guilherme-mendesc.github.io/pokedex/runtime.acc75dc6bf238ec0.js",
+        "https://Guilherme-mendesc.github.io/pokedex/styles.16071ccbfffb4cce.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://Guilherme-mendesc.github.io/pokedex/Bolinhas.b28d63282eeba767.svg",
+        "https://Guilherme-mendesc.github.io/pokedex/assets/bg/Bolinhas.svg",
+        "https://Guilherme-mendesc.github.io/pokedex/assets/error.png.png",
+        "https://Guilherme-mendesc.github.io/pokedex/assets/icons/icon-128x128.png",
+        "https://Guilherme-mendesc.github.io/pokedex/assets/icons/icon-144x144.png",
+        "https://Guilherme-mendesc.github.io/pokedex/assets/icons/icon-152x152.png",
+        "https://Guilherme-mendesc.github.io/pokedex/assets/icons/icon-192x192.png",
+        "https://Guilherme-mendesc.github.io/pokedex/assets/icons/icon-384x384.png",
+        "https://Guilherme-mendesc.github.io/pokedex/assets/icons/icon-512x512.png",
+        "https://Guilherme-mendesc.github.io/pokedex/assets/icons/icon-72x72.png",
+        "https://Guilherme-mendesc.github.io/pokedex/assets/icons/icon-96x96.png",
+        "https://Guilherme-mendesc.github.io/pokedex/assets/icons/search.svg",
+        "https://Guilherme-mendesc.github.io/pokedex/assets/logo.svg",
+        "https://Guilherme-mendesc.github.io/pokedex/assets/pokemon.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://Guilherme-mendesc.github.io/pokedex/Bolinhas.b28d63282eeba767.svg": "e51e6a08bc549277df333e490ec77078998b10a5",
+    "https://Guilherme-mendesc.github.io/pokedex/assets/bg/Bolinhas.svg": "e51e6a08bc549277df333e490ec77078998b10a5",
+    "https://Guilherme-mendesc.github.io/pokedex/assets/error.png.png": "6c357455b3f9afc6359c241b76e6b3ace00730cf",
+    "https://Guilherme-mendesc.github.io/pokedex/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "https://Guilherme-mendesc.github.io/pokedex/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "https://Guilherme-mendesc.github.io/pokedex/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "https://Guilherme-mendesc.github.io/pokedex/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "https://Guilherme-mendesc.github.io/pokedex/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://Guilherme-mendesc.github.io/pokedex/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://Guilherme-mendesc.github.io/pokedex/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "https://Guilherme-mendesc.github.io/pokedex/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "https://Guilherme-mendesc.github.io/pokedex/assets/icons/search.svg": "b8a6f97136e6e7b330ba204ef1e16419beea5729",
+    "https://Guilherme-mendesc.github.io/pokedex/assets/logo.svg": "e83f9d449e777ac183a6bf41a5b42b234c80a829",
+    "https://Guilherme-mendesc.github.io/pokedex/assets/pokemon.png": "23850704cd48b3fdd8cc25a23138cc44bbe90a77",
+    "https://Guilherme-mendesc.github.io/pokedex/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://Guilherme-mendesc.github.io/pokedex/index.html": "c9ef3bb798b65a9d67199f924031d04289272ef5",
+    "https://Guilherme-mendesc.github.io/pokedex/main.7214831b5b7783ee.js": "123b88831fa325f58a6f130987345cc8cd834f6f",
+    "https://Guilherme-mendesc.github.io/pokedex/manifest.webmanifest": "2b3cb9698d8f8a7914f26f5388087dd00d870ac9",
+    "https://Guilherme-mendesc.github.io/pokedex/polyfills.7b8d93438d0d569a.js": "37a0091ca4b964561154af2ab0e1014710b6e42d",
+    "https://Guilherme-mendesc.github.io/pokedex/runtime.acc75dc6bf238ec0.js": "d0335b0a34a8ece0cea87a28fb32a86342b0eddb",
+    "https://Guilherme-mendesc.github.io/pokedex/styles.16071ccbfffb4cce.css": "95cafb11e5d03e1f8a899d9cc0e41f498d3ca1eb"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
